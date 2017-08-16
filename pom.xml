@@ -12,12 +12,12 @@
     <url></url>
 
     <modules>
-        <module>controller</module>
+        <module>controllers</module>
         <module>dao</module>
-        <module>entity</module>
-        <module>model</module>
+        <module>entities</module>
+        <module>models</module>
         <module>services</module>
-        <module>view</module>
+        <module>views</module>
         <module>webapp</module>
     </modules>
 
